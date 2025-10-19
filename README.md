@@ -1,3 +1,15 @@
+# About
+
+Slack CLIを使用して作成した、担当者通知を行うSlack Appです。
+
+詳細は以下の記事で説明している。
+
+[【手順を解説】Slack CLIを使用して、担当者通知するSlackアプリを作成してみた]()
+
+---
+
+以降、本プロジェクト作成時に生成された、テンプレートのREADMEをそのまま記載
+
 # Deno Starter Template
 
 This is a scaffolded Deno template used to build out Slack apps using the Slack
