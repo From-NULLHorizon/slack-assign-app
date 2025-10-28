@@ -4,7 +4,7 @@ Slack CLIを使用して作成した、担当者通知を行うSlack Appです�
 
 詳細は以下の記事で説明している。
 
-[【手順を解説】Slack CLIを使用して、担当者通知するSlackアプリを作成してみた]()
+[【手順を解説】Slack CLIを使用して、担当者通知するSlackアプリを作成してみた](https://zenn.dev/kami_884/articles/slack-cli-app)
 
 ---
 
